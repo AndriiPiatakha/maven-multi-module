@@ -6,6 +6,6 @@ public class MainPersistence {
 	}
 	
 	public static void helloFromPersistenceModule() {
-		System.out.println("Hello from ersistence module :)");
+		System.out.println("Hello from persistence module :)");
 	}
 }

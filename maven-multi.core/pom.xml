@@ -14,7 +14,7 @@
     <version>${project.version}</version>
     <packaging>jar</packaging>
 	
-	<dependencies>
+    <dependencies>
         <dependency>
             <groupId>com.learnit.itbulls</groupId>
             <artifactId>maven-multi.persistence</artifactId>
